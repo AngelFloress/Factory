@@ -1,0 +1,13 @@
+C:\Users\alexe\Documents\ITT 2019 - 2023\8vo Semestre\PATRONES DE DISEÑO\CSPizzas\CSPizzas\bin\Debug\CSPizzas.exe.config
+C:\Users\alexe\Documents\ITT 2019 - 2023\8vo Semestre\PATRONES DE DISEÑO\CSPizzas\CSPizzas\bin\Debug\CSPizzas.exe
+C:\Users\alexe\Documents\ITT 2019 - 2023\8vo Semestre\PATRONES DE DISEÑO\CSPizzas\CSPizzas\bin\Debug\CSPizzas.pdb
+C:\Users\alexe\Documents\ITT 2019 - 2023\8vo Semestre\PATRONES DE DISEÑO\CSPizzas\CSPizzas\obj\Debug\CSPizzas.csprojResolveAssemblyReference.cache
+C:\Users\alexe\Documents\ITT 2019 - 2023\8vo Semestre\PATRONES DE DISEÑO\CSPizzas\CSPizzas\obj\Debug\CSPizzas.exe
+C:\Users\alexe\Documents\ITT 2019 - 2023\8vo Semestre\PATRONES DE DISEÑO\CSPizzas\CSPizzas\obj\Debug\CSPizzas.pdb
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PATRONES DE DISEÑO\CSPizzas\CSPizzas\bin\Debug\CSPizzas.exe.config
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PATRONES DE DISEÑO\CSPizzas\CSPizzas\bin\Debug\CSPizzas.exe
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PATRONES DE DISEÑO\CSPizzas\CSPizzas\bin\Debug\CSPizzas.pdb
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PATRONES DE DISEÑO\CSPizzas\CSPizzas\obj\Debug\CSPizzas.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PATRONES DE DISEÑO\CSPizzas\CSPizzas\obj\Debug\CSPizzas.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PATRONES DE DISEÑO\CSPizzas\CSPizzas\obj\Debug\CSPizzas.exe
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PATRONES DE DISEÑO\CSPizzas\CSPizzas\obj\Debug\CSPizzas.pdb
